@@ -18,7 +18,7 @@ Este projeto de Business Intelligence foi desenvolvido com base no treinamento d
 
 ## 🖼️ Visão do Dashboard
 
-![Dashboard de Vendas Global](./imagens/dashboard-principal.png)
+![Dashboard de Vendas Global](./DASH2.png)
 
 ### Componentes:
 
