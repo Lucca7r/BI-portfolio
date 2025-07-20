@@ -18,7 +18,7 @@ Este dashboard foi desenvolvido com base no curso gratuito de Power BI da **Data
 
 ## 🖼️ Visual do Dashboard
 
-![Dashboard Vendas, Lucros e KPIs](./imagens/dashboard-vendas-lucros-kpis.png)
+![Dashboard Vendas, Lucros e KPIs](./dahs3.png)
 
 ### Componentes:
 
